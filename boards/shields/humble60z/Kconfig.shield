@@ -1,0 +1,3 @@
+
+config SHIELD_HUMBLE60Z
+    def_bool $(shields_list_contains,humble60z)
